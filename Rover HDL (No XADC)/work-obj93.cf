@@ -1,0 +1,58 @@
+v 4
+file . "LA_dump.vhd" "cf35615b750044dfbfb2ee90a437e2e24d7c5735" "20210417000314.916":
+  entity la_dump at 13( 426) + 0 on 1611;
+  architecture behavior of la_dump at 27( 729) + 0 on 1612;
+file . "AD_motor_control.vhd" "b76e90eff655f013cb9fac3d8c15ca3b5445ad1f" "20210417000314.899":
+  entity ad_motor_control at 14( 462) + 0 on 1581;
+  architecture behavior of ad_motor_control at 26( 690) + 0 on 1582;
+file . "AD_motor_control_right.vhd" "ada1b42f7d02f34cb914d298321d4f192af60b2c" "20210403000403.683":
+  entity ad_motor_control_right at 1( 0) + 0 on 323;
+  architecture behavior of ad_motor_control_right at 13( 240) + 0 on 324;
+file . "AD_motor_control_left.vhd" "005978eb5344124d8a89cdb924d7397ae0efe95e" "20210403000403.682":
+  entity ad_motor_control_left at 1( 0) + 0 on 321;
+  architecture behavior of ad_motor_control_left at 13( 238) + 0 on 322;
+file . "uart_tx.vhd" "65428bfffc27820fad8325fec7552333d3dd4155" "20210417000314.914":
+  entity uart_tx at 15( 484) + 0 on 1605;
+  architecture arch of uart_tx at 33( 831) + 0 on 1606;
+file . "uart_rx.vhd" "872ea2de4211ab3d1b36e70a3d25a7f1aefb0bb3" "20210417000314.911":
+  entity uart_rx at 15( 474) + 0 on 1601;
+  architecture arch of uart_rx at 33( 799) + 0 on 1602;
+file . "top.vhd" "f0e3290bd8fc6837058f22529f78815a98a95f7f" "20210417000314.909":
+  entity top at 13( 387) + 0 on 1597;
+  architecture arch of top at 34( 858) + 0 on 1598;
+file . "mod_m_counter.vhd" "9d42fca3e28a4f0c08082bad19b71afacc930266" "20210417000314.902":
+  entity mod_m_counter at 15( 481) + 0 on 1587;
+  architecture arch of mod_m_counter at 30( 784) + 0 on 1588;
+file . "flag_buf.vhd" "81a086266f8d187f73b3a95d146054289c04b184" "20210402221113.697":
+  entity flag_buf at 1( 0) + 0 on 95;
+  architecture arch of flag_buf at 14( 295) + 0 on 96;
+file . "fifo.vhd" "8a8b94668f1cc5f74fb922c5e8e7e9279fdcc1ad" "20210417000314.901":
+  entity fifo at 15( 460) + 0 on 1585;
+  architecture arch of fifo at 32( 839) + 0 on 1586;
+file . "stepper_motor_control.vhd" "6f15da6bde568862e9212f47ae4adeba538831aa" "20210417000314.908":
+  entity stepper_motor_control at 13( 447) + 0 on 1595;
+  architecture behavior of stepper_motor_control at 26( 739) + 0 on 1596;
+file . "motor_control_left.vhd" "498b7da1f26a32d462cb12411379342db22d23b9" "20210417000314.903":
+  entity motor_control_left at 13( 454) + 0 on 1589;
+  architecture behavior of motor_control_left at 26( 724) + 0 on 1590;
+file . "motor_control_right.vhd" "29b82a03bd9bf7459f3701c98fa6db80aef78788" "20210417000314.905":
+  entity motor_control_right at 13( 457) + 0 on 1591;
+  architecture behavior of motor_control_right at 26( 729) + 0 on 1592;
+file . "move_data.vhd" "65f148a5b394cd15e0b99ccbae377e89c3ac7e22" "20210417000314.906":
+  entity move at 15( 539) + 0 on 1593;
+  architecture behavior of move at 35( 1122) + 0 on 1594;
+file . "uart_s_r.vhd" "1f7bf65b70432d785449567e8c04b4c9ac14638f" "20210417000314.913":
+  entity uart_s_r at 16( 624) + 0 on 1603;
+  architecture arch of uart_s_r at 32( 1049) + 0 on 1604;
+file . "debounce.vhd" "3fe5c059590cead5745e0f6068b87dd88b344749" "20210417000314.900":
+  entity debounce at 16( 590) + 0 on 1583;
+  architecture exp_fsmd_arch of debounce at 27( 791) + 0 on 1584;
+file . "uart.vhd" "de5b261b40334791696f0e7d31caef0cfa52313a" "20210417000314.910":
+  entity uart at 15( 458) + 0 on 1599;
+  architecture str_arch of uart at 42( 1279) + 0 on 1600;
+file . "LA_drill.vhd" "ae67a5b21a4ebb1cd49e0f80efb73fd54e92ccbb" "20210417000314.915":
+  entity la_drill at 13( 434) + 0 on 1607;
+  architecture behavior of la_drill at 26( 706) + 0 on 1608;
+file . "angle_read.vhd" "fb99f6d8222cda8537cfaaa6e5ad7e90fe74edff" "20210417000314.916":
+  entity angle_read at 13( 440) + 0 on 1609;
+  architecture behavior of angle_read at 25( 676) + 0 on 1610;
