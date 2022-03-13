@@ -1,0 +1,4 @@
+v 4
+file . "debounce.vhd" "1df4e0ca5c50b49462f78ff0b4df688c652251a6" "20210326215759.136":
+  entity debounce at 1( 0) + 0 on 17;
+  architecture behavior of debounce at 13( 203) + 0 on 18;

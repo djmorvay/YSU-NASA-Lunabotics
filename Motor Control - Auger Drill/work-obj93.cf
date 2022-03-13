@@ -1,0 +1,4 @@
+v 4
+file . "AD_motor_control.vhd" "ee0ea525add06b95b167abd2580ce2b24483691f" "20210401160407.915":
+  entity ad_motor_control at 1( 0) + 0 on 13;
+  architecture behavior of ad_motor_control at 13( 227) + 0 on 14;
