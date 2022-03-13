@@ -3,6 +3,8 @@ YSU NASA Lunabotics Rover - VHDL
 
 [Lunabotics Final Report - Rev. 2.0.pdf](https://github.com/DeeJay2545/YSU-NASA-Lunabotics/files/8238770/Lunabotics.Final.Report.-.Rev.2.0.pdf)
 
+[NASA Lunabotics - Final Presentation.pdf](https://github.com/DeeJay2545/YSU-NASA-Lunabotics/files/8238847/NASA.Lunabotics.-.Final.Presentation.pdf)
+
 Executive Summary
 
 The NASA Lunabotics Competition tasks collegiate teams with designing, building, and programming a rover that must traverse a simulated lunar surface to mine icy regolith (gravel) at a secondary ground layer 30 cm below the surface. This rover must meet specified design constraints, including an initial volume of 1 m long, 0.5 m wide, and 0.5 m tall, and a maximum mass of 60 kg. Additionally, the rover must be capable of avoiding or crossing boulders and craters upwards of 50 cm in diameter and depth. Teams are incentivized to optimize the rover’s mass, energy usage, communication bandwidth, and dust tolerance to accurately mimic the requirements for a real lunar rover. By providing a rover with these capabilities, teams will aid in the development of ideas used for NASA’s Artemis autonomous lunar rover that will be sent to the moon as part of the strategic goal to have a man and woman on the moon by 2024. Before sending people back to the moon, preparing for the arrival and exploration will be done using these unmanned objects. By participating in this competition, teams will be preparing future engineers to be ready for the design and development that is occurring for these missions. Additionally, the ideas brought forth can potentially be used for future concepts and rover developments that will aid in exploration.
