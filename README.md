@@ -1,4 +1,4 @@
-# Youngstown State University NASA Lunabotics
+# Youngstown State University NASA Lunabotics - 2020/2021
 YSU NASA Lunabotics Rover - VHDL
 
 [Lunabotics Final Report - Rev. 2.0.pdf](https://github.com/DeeJay2545/YSU-NASA-Lunabotics/files/8238770/Lunabotics.Final.Report.-.Rev.2.0.pdf)
